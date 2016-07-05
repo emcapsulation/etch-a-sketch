@@ -1,0 +1,39 @@
+.pixel	{
+	height:50px;
+	width:50px;
+	background-color:black;
+}
+
+#container {
+	height:625px;
+	width:78%;
+	background-color:#4CBBE0;
+	border-radius:10%;
+	margin:auto;
+	border:50px solid #487DC7;
+	padding:20px;
+}
+
+h1 {
+	font-family: Garamond;
+	text-align: center;
+}
+
+#horizontal {
+	display:inline-block;
+	margin-top:-5px;
+}
+
+button {
+	font-size: 20px;
+	background-color: white;
+}
+
+button:hover {
+	background-color:#487DC7;
+	cursor:pointer;
+}
+
+.white {
+	background-color: white;
+}
